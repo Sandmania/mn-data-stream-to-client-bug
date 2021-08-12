@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: dataStreamToClient
+  http:
+    services:
+      alphabet:
+        url: https://abc.xyz
